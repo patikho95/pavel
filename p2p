@@ -40,7 +40,7 @@
     "icon_url": "https://sberbank.ru/transfer.jpg",
     "title": "Сумма перевода",
     "transfer_fee": "Комиссия 0 ₽",
-    "value": "100 ₽"
+    "value": "100 ₽",
     "accessibility": "привет",
   },
   "type": "p2p_transfer_confirmation"
