@@ -2,6 +2,7 @@
     "items" : [
       {
         "card" : {
+         "accessibility":"Ты писюн",
           "cells" : [
             {
               "content" : {
