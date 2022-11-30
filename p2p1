@@ -1,0 +1,50 @@
+{
+  "items": [
+ {
+   "card": {
+  "bank_account_info": {
+    "action": {
+   "text": "Изменить карту"
+    },
+    "balance": "100 ₽",
+    "icon_local": "card_mc",
+    "name": "MasterCard",
+    "number": "****9771",
+    "title": "Счет списания",
+    "accessibility": "привет",
+  },
+  "confirmation_button": {
+    "action": {
+   "text": "Подтверждаю"
+    },
+    "text": "Перевести 100 ₽",
+    "accessibility": "привет"
+  },
+  "contact_info": {
+    "action": {
+   "text": "Изменить получателя"
+    },
+    "bank_account": "** 3922",
+    "name": "АНТОН РОМАНОВИЧ К.",
+    "phone": "8 (999) 981-81-23",
+    "title": "Получатель",
+    "accessibility": "привет"
+  },
+  "subtitle": "Антон Казанков",
+  "title": "Перевод клиенту СберБанка",
+  "accessibility": "привет",
+  "transfer_amount_info": {
+    "action": {
+   "text": "Изменить сумму"
+    },
+    "icon_url": "https://sberbank.ru/transfer.jpg",
+    "title": "Сумма перевода",
+    "transfer_fee": "Комиссия 0 ₽",
+    "value": "100 ₽",
+    "accessibility": "привет",
+  },
+  "type": "p2p_transfer_confirmation"
+   }
+ }
+  ]
+}
