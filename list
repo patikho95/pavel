@@ -2,6 +2,7 @@
     "items" : [
       {
         "card" : {
+          "accessibility":"Альтернативный текст",
           "cells" : [
             {
               "content" : {
