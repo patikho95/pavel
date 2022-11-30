@@ -1,12 +1,6 @@
 {
   "items": [
  {
-   "bubble": {
-  "markdown": true,
-  "text": "Проверьте данные, скажите «Подтверждаю» или «Отмена»"
-   }
- },
- {
    "card": {
   "bank_account_info": {
     "action": {
@@ -17,13 +11,14 @@
     "name": "MasterCard",
     "number": "****9771",
     "title": "Счет списания",
-    "accessibility": "Альтернатива Счет списания карта MasterCard номер ****9771 баланс 100 ₽",
+    "accessibility": "привет",
   },
   "confirmation_button": {
     "action": {
    "text": "Подтверждаю"
     },
-    "text": "Перевести 100 ₽"
+    "text": "Перевести 100 ₽",
+    "accessibility": "привет"
   },
   "contact_info": {
     "action": {
@@ -32,10 +27,12 @@
     "bank_account": "** 3922",
     "name": "АНТОН РОМАНОВИЧ К.",
     "phone": "8 (999) 981-81-23",
-    "title": "Получатель"
+    "title": "Получатель",
+    "accessibility": "привет"
   },
   "subtitle": "Антон Казанков",
   "title": "Перевод клиенту СберБанка",
+  "accessibility": "привет",
   "transfer_amount_info": {
     "action": {
    "text": "Изменить сумму"
@@ -44,6 +41,7 @@
     "title": "Сумма перевода",
     "transfer_fee": "Комиссия 0 ₽",
     "value": "100 ₽"
+    "accessibility": "привет",
   },
   "type": "p2p_transfer_confirmation"
    }
