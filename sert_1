@@ -1,0 +1,38 @@
+{
+    "debug_info":
+    {},
+    "activate_app_info": true,
+    "auto_listening": true,
+    "projectName": "Бонусы",
+    "intent": "run_app",
+    "app_info":
+    {
+        "affiliationType": "ECOSYSTEM",
+        "frontendEndpoint": "https://spasibo.prom.app.sberdevices.ru/",
+        "apkInfo":
+        {},
+        "frontendStateId": "4410a5b3-5240-4109-b22b-a3bf635255aa_8e8b3b3d-9798-4203-a2fd-e3a0a7bab216_6f8c183a-defb-4d7c-b362-da70fd6d9808",
+        "frontendType": "WEB_APP",
+        "systemName": "spasibo",
+        "securityAccess":
+        {},
+        "allowFastRunApp": false,
+        "projectId": "4410a5b3-5240-4109-b22b-a3bf635255aa",
+        "appearance":
+        {
+            "header":
+            {
+                "title": "Бонусы",
+                "icon":
+                {
+                    "type": "url",
+                    "url": "https://cdn.sberdevices.ru/VA/icons/spasibo_icon.png",
+                    "hash": "51e9201c01fa810ca92c964f7ad7b097"
+                }
+            }
+        },
+        "appversionId": "6f8c183a-defb-4d7c-b362-da70fd6d9808",
+        "ageLimit": 18,
+        "applicationId": "8e8b3b3d-9798-4203-a2fd-e3a0a7bab216"
+        }
+}
