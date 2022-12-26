@@ -164,6 +164,17 @@
                  "actions":[
                     {
                        "type":"deep_link",
+                       "deep_link":"companionapp://navigation?pageId=assistant&systemName=sberEats"
+                    }, 
+                    {
+                       "type":"text",
+                       "text":"текст грабли оператора"
+                    }
+                 ],
+                 "log_id":"operator_button",
+                 "actions":[
+                    {
+                       "type":"deep_link",
                        "deep_link":"companionapp://navigation?pageId=assistant&systemName=spasibo"
                     }, 
                     {
