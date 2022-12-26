@@ -1,0 +1,1174 @@
+{
+    "activate_app_info" : true,
+    "additional_apps_payload" : [
+
+    ],
+    "app_info" : {
+      "affiliationType" : "INTERNAL",
+      "ageLimit" : 0,
+      "allowFastRunApp" : false,
+      "apkInfo" : {
+
+      },
+      "appearance" : {
+        "header" : {
+          "icon" : {
+            "hash" : "c2c0998eb3a678fde975e766c82f2862",
+            "type" : "url",
+            "url" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/icon_catalog.png"
+          },
+          "title" : "Каталог"
+        }
+      },
+      "applicationId" : "eb5d7c3c-354b-412a-9bdf-7be5023493cb",
+      "appversionId" : "2ce0766a-3bb0-4269-8f97-11f9a0e6054a",
+      "availableOrientations" : [
+
+      ],
+      "frontendEndpoint" : "https:\/\/catalog.prom.app.sberdevices.ru\/canvas\/COMPANION",
+      "frontendStateId" : "748786f4-8270-48ca-9f3e-e8f12e08e7a0_eb5d7c3c-354b-412a-9bdf-7be5023493cb_2ce0766a-3bb0-4269-8f97-11f9a0e6054a",
+      "frontendType" : "WEB_APP",
+      "projectId" : "748786f4-8270-48ca-9f3e-e8f12e08e7a0",
+      "securityAccess" : {
+
+      },
+      "systemName" : "catalog"
+    },
+    "asr_hints" : {
+
+    },
+    "assistant_items" : [
+
+    ],
+    "auto_listening" : false,
+    "character" : {
+      "id" : "sber"
+    },
+    "debug_info" : {
+
+    },
+    "feature_launcher" : {
+      "assigned_testing_groups" : [
+        "catalog_app",
+        "catalog_app"
+      ],
+      "catalog_app" : {
+        "assigned_testing_groups" : [
+          "catalog_app",
+          "catalog_app"
+        ],
+        "automatic_download_open_enable" : true,
+        "category_carousel_enable" : true,
+        "chtu_canvas" : true,
+        "chtu_page_enable" : true,
+        "deeplink_compilation_id" : "045a6846-63f0-4e70-b2d9-d23c37b3d388",
+        "disable_run_app_hack" : true,
+        "enable_favourites" : true,
+        "enable_group_by_subcategories" : true,
+        "enable_promos" : true,
+        "extended_mixed_enable" : true,
+        "feedback_enable" : true,
+        "force_enable_multiactivity" : true,
+        "navbar_enable" : true,
+        "ratings_enable" : true,
+        "ratings_voice_enable" : true,
+        "required_review" : true,
+        "run_on_device_enable" : true,
+        "sbol_as_b2c" : true,
+        "search_enable" : true,
+        "show_fixed_launch_btn" : true,
+        "show_play_in_card" : true,
+        "show_rating_in_card" : true,
+        "square_rating_card_enable" : true,
+        "use_last_launch" : true,
+        "use_recommended" : true,
+        "voice_compilation_enable" : true
+      },
+      "nlp_platform" : {
+        "greenfield_segment_list" : [
+          "sbol_gte_12.0.0",
+          "sbol_version_gte_12.0.0",
+          "ALL_PEOPLES",
+          "COMPANION"
+        ]
+      },
+      "public" : {
+        "greenfield_segment_list" : [
+          "sbol_gte_12.0.0",
+          "sbol_version_gte_12.0.0",
+          "ALL_PEOPLES",
+          "COMPANION"
+        ]
+      }
+    },
+    "finished" : false,
+    "intent" : "run_app",
+    "items" : [
+      {
+        "command" : {
+          "smart_app_data" : {
+            "payload" : {
+              "feature_launcher" : {
+                "assigned_testing_groups" : [
+                  "catalog_app",
+                  "catalog_app"
+                ],
+                "catalog_app" : {
+                  "assigned_testing_groups" : [
+                    "catalog_app",
+                    "catalog_app"
+                  ],
+                  "automatic_download_open_enable" : true,
+                  "category_carousel_enable" : true,
+                  "chtu_canvas" : true,
+                  "chtu_page_enable" : true,
+                  "deeplink_compilation_id" : "045a6846-63f0-4e70-b2d9-d23c37b3d388",
+                  "disable_run_app_hack" : true,
+                  "enable_favourites" : true,
+                  "enable_group_by_subcategories" : true,
+                  "enable_promos" : true,
+                  "extended_mixed_enable" : true,
+                  "feedback_enable" : true,
+                  "force_enable_multiactivity" : true,
+                  "navbar_enable" : true,
+                  "ratings_enable" : true,
+                  "ratings_voice_enable" : true,
+                  "required_review" : true,
+                  "run_on_device_enable" : true,
+                  "sbol_as_b2c" : true,
+                  "search_enable" : true,
+                  "show_fixed_launch_btn" : true,
+                  "show_play_in_card" : true,
+                  "show_rating_in_card" : true,
+                  "square_rating_card_enable" : true,
+                  "use_last_launch" : true,
+                  "use_recommended" : true,
+                  "voice_compilation_enable" : true
+                },
+                "nlp_platform" : {
+                  "greenfield_segment_list" : [
+                    "sbol_gte_12.0.0",
+                    "sbol_version_gte_12.0.0",
+                    "ALL_PEOPLES",
+                    "COMPANION"
+                  ]
+                },
+                "public" : {
+                  "greenfield_segment_list" : [
+                    "sbol_gte_12.0.0",
+                    "sbol_version_gte_12.0.0",
+                    "ALL_PEOPLES",
+                    "COMPANION"
+                  ]
+                }
+              },
+              "features" : {
+                "demo_mode" : {
+                  "enabled" : false
+                },
+                "int_login" : {
+                  "enabled" : true
+                },
+                "screen" : {
+                  "enabled" : true,
+                  "orientation" : "portrait"
+                }
+              },
+              "sbercast" : {
+                "connected_devices" : [
+
+                ],
+                "status" : "disabled"
+              },
+              "surface" : "COMPANION",
+              "user_settings" : {
+
+              },
+              "userChannel" : "COMPANION_B2C",
+              "web_content" : {
+                "channelCode" : "COMPANION_B2C",
+                "compilations" : [
+                  {
+                    "backgroundUrl" : null,
+                    "canExpand" : false,
+                    "description" : null,
+                    "iconUrl" : null,
+                    "id" : "02d9a786-c025-4637-b1ac-3f2c192c6067",
+                    "kind" : "MANUAL",
+                    "name" : "null",
+                    "orderByRating" : false,
+                    "shortDescription" : null,
+                    "shortTitle" : null,
+                    "showMoreTitle" : "Смотреть все",
+                    "shuffle" : true,
+                    "title" : "Лучшие новинки",
+                    "type" : "APPS",
+                    "units" : [
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "включи Помощь с питомцем",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "6+",
+                          "appId" : "2de81ee9-9cc0-4310-8516-377b1753d84c",
+                          "appVersionId" : "bbd1eba7-4520-4780-b24b-d2615574a674",
+                          "avgRating" : 4.5999999999999996,
+                          "categories" : [
+                            {
+                              "categoryName" : "Образ жизни"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/b4cdb539-a5ed-46da-8710-ed3e86d8c175\/e8b27c5a-172f-463c-930f-1c0946d148a5.png",
+                          "launcherIconUrl" : null,
+                          "mainControl" : "",
+                          "nameplates" : [
+
+                          ],
+                          "paraphrases" : [
+                            "Помощь с питомцем",
+                            "помоги с питомцем",
+                            "обучение командам",
+                            "выбор питомца"
+                          ],
+                          "price" : "",
+                          "projectId" : "b4cdb539-a5ed-46da-8710-ed3e86d8c175",
+                          "surfaces" : [
+                            "STARGATE",
+                            "TV",
+                            "SATELLITE",
+                            "SBERZVUK",
+                            "SBOL",
+                            "TIME",
+                            "SBERBOOM_MINI",
+                            "COMPANION",
+                            "SAMSUNG_TV",
+                            "WEB",
+                            "SBERBANK_RU",
+                            "TV_HUAWEI",
+                            "SBERBOX",
+                            "SBERBOOM"
+                          ],
+                          "title" : "Помощь с питомцем"
+                        },
+                        "id" : "bbd1eba7-4520-4780-b24b-d2615574a674",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "запусти Здоровые привычки",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "12+",
+                          "appId" : "8d093dbd-8c8d-41c0-9bc4-c4dfdf2b3fe4",
+                          "appVersionId" : "3a9630e8-44ac-457f-9125-a8b93760d2b0",
+                          "avgRating" : 4.2999999999999998,
+                          "categories" : [
+                            {
+                              "categoryName" : "Образ жизни"
+                            },
+                            {
+                              "categoryName" : "Здоровье и фитнес"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/7a404980-8d80-45eb-a1a9-22f95de6eb2c\/03fbf9e3-c6de-4bbd-be06-b34bd8506d3e.png",
+                          "launcherIconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/7a404980-8d80-45eb-a1a9-22f95de6eb2c\/a4b6d6c7-7052-467c-836b-41c35c380e44.png",
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Здоровые привычки",
+                            "Ты сильнее",
+                            "Здоровый образ жизни"
+                          ],
+                          "price" : "",
+                          "projectId" : "7a404980-8d80-45eb-a1a9-22f95de6eb2c",
+                          "surfaces" : [
+                            "STARGATE",
+                            "TV",
+                            "SATELLITE",
+                            "WEB",
+                            "SBERZVUK",
+                            "SBERBANK_RU",
+                            "TV_HUAWEI",
+                            "SBERBOX",
+                            "SBOL",
+                            "TIME",
+                            "COMPANION",
+                            "SAMSUNG_TV"
+                          ],
+                          "title" : "Здоровые привычки"
+                        },
+                        "id" : "3a9630e8-44ac-457f-9125-a8b93760d2b0",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "включи Дневник мыслей",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "18+",
+                          "appId" : "08b6b713-2a03-4e15-8c31-5d7d04dad3e0",
+                          "appVersionId" : "431c17c9-88c7-4b86-bc31-2b161a28ebbe",
+                          "avgRating" : 4.2999999999999998,
+                          "categories" : [
+                            {
+                              "categoryName" : "Образ жизни"
+                            },
+                            {
+                              "categoryName" : "Здоровье и фитнес"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/f98bb20d-66a9-4acd-8061-7ce7190e4952\/dcff4239-b483-494f-9273-6c322d3ccd09.png",
+                          "launcherIconUrl" : null,
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Дневник мыслей"
+                          ],
+                          "price" : "",
+                          "projectId" : "f98bb20d-66a9-4acd-8061-7ce7190e4952",
+                          "surfaces" : [
+                            "WEB",
+                            "SBERZVUK",
+                            "SBERBANK_RU",
+                            "SBOL",
+                            "COMPANION"
+                          ],
+                          "title" : "Дневник мыслей"
+                        },
+                        "id" : "431c17c9-88c7-4b86-bc31-2b161a28ebbe",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "включи Видео кибербезопасности",
+                          "affiliationType" : "BANKING",
+                          "ageRating" : "0+",
+                          "appId" : "06451329-cf56-4810-b012-6b421c309d72",
+                          "appVersionId" : "daf304ac-2000-446e-b317-68881e88e4ac",
+                          "avgRating" : 4.5999999999999996,
+                          "categories" : [
+                            {
+                              "categoryName" : "Образование и культура"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/a2e1f22a-56c7-4d2a-97d0-1235d6bfc5b9\/8dc2c292-4b6d-462c-9826-21d962ef54b5.png",
+                          "launcherIconUrl" : null,
+                          "mainControl" : "",
+                          "nameplates" : [
+
+                          ],
+                          "paraphrases" : [
+                            "Видео по кибербезопасности",
+                            "Видеоролики кибербезопасности",
+                            "Ролики кибербезопасности",
+                            "Видеоматериалы кибербезопасности",
+                            "Видео кибербезопасности"
+                          ],
+                          "price" : "",
+                          "projectId" : "a2e1f22a-56c7-4d2a-97d0-1235d6bfc5b9",
+                          "surfaces" : [
+                            "STARGATE",
+                            "TV",
+                            "SATELLITE",
+                            "WEB",
+                            "SBERZVUK",
+                            "SBERBANK_RU",
+                            "TV_HUAWEI",
+                            "SBERBOX",
+                            "SBOL",
+                            "TIME",
+                            "COMPANION",
+                            "SAMSUNG_TV"
+                          ],
+                          "title" : "Видео по кибербезопасности"
+                        },
+                        "id" : "daf304ac-2000-446e-b317-68881e88e4ac",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "активируй тренажёр счёта",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "6+",
+                          "appId" : "514e6106-1975-45d7-977a-44853b625466",
+                          "appVersionId" : "6ebdc0c6-36b1-4b0c-be1a-c6dd9d951017",
+                          "avgRating" : 4.7999999999999998,
+                          "categories" : [
+                            {
+                              "categoryName" : "Образование и культура"
+                            },
+                            {
+                              "categoryName" : "Игры"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/c384b856-fc03-42be-9024-86363fbf9448\/cb753bfc-fc1d-4123-bd7f-2d8ef8a5dc54.png",
+                          "launcherIconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/c384b856-fc03-42be-9024-86363fbf9448\/d4c89367-2b7d-4c71-bc04-ab8e054c1ec2.png",
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Тренажёр счёта «Числорезка»",
+                            "тренажёр счёта",
+                            "китайские числа",
+                            "счёт на кубиках",
+                            "Тренажёр счёта число резка"
+                          ],
+                          "price" : "",
+                          "projectId" : "c384b856-fc03-42be-9024-86363fbf9448",
+                          "surfaces" : [
+                            "SBERZVUK",
+                            "SBOL",
+                            "COMPANION"
+                          ],
+                          "title" : "Тренажёр счёта «Числорезка»"
+                        },
+                        "id" : "6ebdc0c6-36b1-4b0c-be1a-c6dd9d951017",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "давай поиграем в Вперёд кубик",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "0+",
+                          "appId" : "f70760b4-831b-434a-b6d6-1170474b74ab",
+                          "appVersionId" : "7558c6fd-2a8e-472c-aa27-9cdc2d988eb3",
+                          "avgRating" : 4.0999999999999996,
+                          "categories" : [
+                            {
+                              "categoryName" : "Игры"
+                            },
+                            {
+                              "categoryName" : "Для детей"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/6d434db0-a7d0-4c34-b55d-138117a04875\/4a435ed6-d022-47de-9ad4-329e5f45295d.png",
+                          "launcherIconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/6d434db0-a7d0-4c34-b55d-138117a04875\/4334781b-d021-4e4c-bdd0-607ad9cd2314.png",
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Вперёд кубик",
+                            "кубик вперёд",
+                            "cubic вперёд"
+                          ],
+                          "price" : "",
+                          "projectId" : "6d434db0-a7d0-4c34-b55d-138117a04875",
+                          "surfaces" : [
+                            "SBERZVUK",
+                            "SBOL",
+                            "COMPANION"
+                          ],
+                          "title" : "Вперёд кубик"
+                        },
+                        "id" : "7558c6fd-2a8e-472c-aa27-9cdc2d988eb3",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "навык викторина про инвестиции",
+                          "affiliationType" : "BANKING",
+                          "ageRating" : "12+",
+                          "appId" : "08fe93e7-a33c-4a54-8f85-34d61cb054ec",
+                          "appVersionId" : "1d787bfc-383c-4b83-b01d-965fb208f960",
+                          "avgRating" : 4.7000000000000002,
+                          "categories" : [
+                            {
+                              "categoryName" : "Бизнес и финансы"
+                            },
+                            {
+                              "categoryName" : "Игры"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/dc96044a-8807-4ee1-bf9a-2d2ee5737b5a\/b36f9198-b034-4520-99d0-f665f8cd80ef.png",
+                          "launcherIconUrl" : null,
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Инвестквиз",
+                            "Инвест квиз",
+                            "вернись в инвестквиз",
+                            "викторина про инвестиции",
+                            "квиз по инвестициям"
+                          ],
+                          "price" : "",
+                          "projectId" : "dc96044a-8807-4ee1-bf9a-2d2ee5737b5a",
+                          "surfaces" : [
+                            "STARGATE",
+                            "TV",
+                            "SATELLITE",
+                            "SBERZVUK",
+                            "SBERBANK_RU",
+                            "TV_HUAWEI",
+                            "SBERBOX",
+                            "SBOL",
+                            "TIME",
+                            "COMPANION"
+                          ],
+                          "title" : "Инвестквиз"
+                        },
+                        "id" : "1d787bfc-383c-4b83-b01d-965fb208f960",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "включи Зимние напитки",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "16+",
+                          "appId" : "e25d03c5-6c84-496f-8d9d-37797d98cf59",
+                          "appVersionId" : "2f2f6cdb-7215-48b0-895a-a0955f4ea809",
+                          "avgRating" : 5,
+                          "categories" : [
+                            {
+                              "categoryName" : "Еда и напитки"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/d22f5b1a-415c-4a5f-90aa-f8ad9ba75d99\/e3731937-ddc7-49b0-a3c8-82705786e408.png",
+                          "launcherIconUrl" : null,
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Зимние напитки",
+                            "напитки для зимы",
+                            "согревающие напитки"
+                          ],
+                          "price" : "",
+                          "projectId" : "d22f5b1a-415c-4a5f-90aa-f8ad9ba75d99",
+                          "surfaces" : [
+                            "STARGATE",
+                            "SATELLITE",
+                            "SBERBOX",
+                            "TIME",
+                            "COMPANION"
+                          ],
+                          "title" : "Зимние напитки"
+                        },
+                        "id" : "2f2f6cdb-7215-48b0-895a-a0955f4ea809",
+                        "type" : "APP"
+                      },
+                      {
+                        "attributes" : {
+                          "activationPhrase" : "запусти тренажёр иероглифов",
+                          "affiliationType" : "EXTERNAL",
+                          "ageRating" : "6+",
+                          "appId" : "b7e71e95-f1d4-4f7c-8920-5779f720cc42",
+                          "appVersionId" : "3fe80684-d643-40c5-a250-719dbac66adf",
+                          "avgRating" : 4.2000000000000002,
+                          "categories" : [
+                            {
+                              "categoryName" : "Образование и культура"
+                            },
+                            {
+                              "categoryName" : "Игры"
+                            }
+                          ],
+                          "disableRunApp" : false,
+                          "iconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/24a2b1e0-b2b7-40cb-bb65-c1d5d94980ce\/1281b510-07ba-4c3f-b527-1df495b48707.png",
+                          "launcherIconUrl" : "https:\/\/cdn.sberdevices.ru\/static\/services\/target\/24a2b1e0-b2b7-40cb-bb65-c1d5d94980ce\/c997f51e-9130-4324-8ada-03b5c7df4813.png",
+                          "mainControl" : "",
+                          "nameplates" : [
+                            "New"
+                          ],
+                          "paraphrases" : [
+                            "Тренажёр китайских иероглифов HSK 1",
+                            "тренажёр иероглифов",
+                            "китайские иероглифы",
+                            "чтение пиньинь"
+                          ],
+                          "price" : "",
+                          "projectId" : "24a2b1e0-b2b7-40cb-bb65-c1d5d94980ce",
+                          "surfaces" : [
+                            "SBERZVUK",
+                            "COMPANION"
+                          ],
+                          "title" : "Тренажёр китайских иероглифов HSK 1"
+                        },
+                        "id" : "3fe80684-d643-40c5-a250-719dbac66adf",
+                        "type" : "APP"
+                      }
+                    ]
+                  },
+                  {
+                    "backgroundUrl" : null,
+                    "canExpand" : false,
+                    "description" : null,
+                    "iconUrl" : null,
+                    "id" : "3f54d5a4-4ed3-4344-a4ec-48609e78780f",
+                    "kind" : "MANUAL",
+                    "name" : "null",
+                    "orderByRating" : false,
+                    "shortDescription" : null,
+                    "shortTitle" : null,
+                    "showMoreTitle" : "Смотреть все",
+                    "shuffle" : false,
+                    "title" : "Что умеет ассистент на разных устройствах",
+                    "type" : "ASSISTANT",
+                    "units" : [
+                      {
+                        "attributes" : {
+                          "categoryCode" : "FINANCE_HB_COMP",
+                          "endColor" : "#00A6C7",
+                          "icon" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/catalog\/c5b69571_Finansi.png",
+                          "phrases" : [
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Открой оплату по "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "QR"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Покажи мои доходы "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "за год"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Как получить больше "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "бонусов"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : "?"
+                                }
+                              ]
+                            }
+                          ],
+                          "startColor" : "#0EB029",
+                          "title" : "Финансы",
+                          "totalCount" : 13
+                        },
+                        "id" : "7d328e8e-4221-4a67-8b99-2e62edf9d053",
+                        "type" : "ASSISTANT"
+                      },
+                      {
+                        "attributes" : {
+                          "categoryCode" : "CHILDREN_COMP",
+                          "endColor" : "#00A6C7",
+                          "icon" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/catalog\/2ef18fce_Detskie_stsenarii.png",
+                          "phrases" : [
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Как звучит "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "флейта"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : "?"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Что "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "нарисовать"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : "?"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Запусти игру про "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "Древний Египет"
+                                }
+                              ]
+                            }
+                          ],
+                          "startColor" : "#0EB029",
+                          "title" : "Для детей",
+                          "totalCount" : 22
+                        },
+                        "id" : "54704a46-1d5b-4a30-b9b4-ab7a11dd184e",
+                        "type" : "ASSISTANT"
+                      },
+                      {
+                        "attributes" : {
+                          "categoryCode" : "NEUROSKILLS_HB_COMP",
+                          "endColor" : "#27C6E5",
+                          "icon" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/catalog\/78d7aa65_Obeshchnie_i_neironaviki.png",
+                          "phrases" : [
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "В чём "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "смысл жизни"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : "?"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : true,
+                                  "text" : "Финансовый"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : " гороскоп для овна"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Мона Лиза "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "катается на карусели"
+                                }
+                              ]
+                            }
+                          ],
+                          "startColor" : "#3E79F0",
+                          "title" : "Нейронавыки",
+                          "totalCount" : 9
+                        },
+                        "id" : "b04e692a-3553-4f93-adfb-4b8bcf04c61a",
+                        "type" : "ASSISTANT"
+                      },
+                      {
+                        "attributes" : {
+                          "categoryCode" : "FOOD_ORDER_COMP",
+                          "endColor" : "#FF52C5",
+                          "icon" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/catalog\/f91b7791_Internet_pokupki.png",
+                          "phrases" : [
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Закажи "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "чипсы"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Найди салат "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "цезарь"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Хочу новый "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "смартфон"
+                                }
+                              ]
+                            }
+                          ],
+                          "startColor" : "#FCA349",
+                          "title" : "Покупки онлайн",
+                          "totalCount" : 10
+                        },
+                        "id" : "a23ffab1-fee4-4dce-972a-9b8479a76bcb",
+                        "type" : "ASSISTANT"
+                      },
+                      {
+                        "attributes" : {
+                          "categoryCode" : "ACCESS_PUBLIC_SERVICES_COMP",
+                          "endColor" : "#27C6E5",
+                          "icon" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/catalog\/06e70b51_Gosuslugi.png",
+                          "phrases" : [
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Записаться в "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "детский сад"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : true,
+                                  "text" : "Записаться"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : " к врачу на Госуслугах"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Как оформить "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "загранпаспорт"
+                                },
+                                {
+                                  "accent" : false,
+                                  "text" : "?"
+                                }
+                              ]
+                            }
+                          ],
+                          "startColor" : "#3E79F0",
+                          "title" : "Быстрый доступ к Госуслугам",
+                          "totalCount" : 13
+                        },
+                        "id" : "2bad41c0-ad39-4dcb-a7ec-b32b3eac8755",
+                        "type" : "ASSISTANT"
+                      },
+                      {
+                        "attributes" : {
+                          "categoryCode" : "ENTERTAINMENT_HB_COMP",
+                          "endColor" : "#FF52C5",
+                          "icon" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/catalog\/2be1c9c9_Kino_i_muzika.png",
+                          "phrases" : [
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Включи "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "Европу Плюс"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Включи "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "Первый Канал"
+                                }
+                              ]
+                            },
+                            {
+                              "phrase" : [
+                                {
+                                  "accent" : false,
+                                  "text" : "Открой игры в стиле "
+                                },
+                                {
+                                  "accent" : true,
+                                  "text" : "ретро"
+                                }
+                              ]
+                            }
+                          ],
+                          "startColor" : "#FCA349",
+                          "title" : "Развлечения",
+                          "totalCount" : 15
+                        },
+                        "id" : "38641a66-2a62-4214-8008-dbaef5695290",
+                        "type" : "ASSISTANT"
+                      }
+                    ]
+                  },
+                  {
+                    "backgroundUrl" : null,
+                    "canExpand" : false,
+                    "description" : null,
+                    "iconUrl" : null,
+                    "id" : "ff56c511-7aaf-466d-acf2-e64d0012aa8a",
+                    "kind" : "MANUAL",
+                    "name" : "null",
+                    "orderByRating" : false,
+                    "shortDescription" : null,
+                    "shortTitle" : null,
+                    "showMoreTitle" : "Смотреть все",
+                    "shuffle" : false,
+                    "title" : "",
+                    "type" : "PROMOS",
+                    "units" : [
+                      {
+                        "attributes" : {
+                          "backgroundImgUrl" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/common\/ecdf562d_giftery_bannerss_hny.png",
+                          "buttonText" : "Подробнее",
+                          "description" : "Дарите выбор с электронной мультибрендовой подарочной картой Giftery",
+                          "endColor" : "#ffffff",
+                          "iconUrl" : "",
+                          "isPrefixEnabled" : false,
+                          "serverAction" : "{\"serverAction\": { \"action_id\": \"CATALOG_LAUNCH_APP\", \"parameters\": { \"project_id\": \"7f46d234-55ab-4149-b329-4a3f6726da17\" }, \"type\": \"CATALOG_LAUNCH_APP\" } }",
+                          "startColor" : "#ffffff",
+                          "title" : [
+                            {
+                              "accent" : false,
+                              "lineBreak" : false,
+                              "text" : "Отправьте подарок близким"
+                            }
+                          ]
+                        },
+                        "id" : "fb4c26bf-e665-42e8-afd9-84e6d8ce2fd3",
+                        "type" : "PROMO"
+                      }
+                    ]
+                  },
+                  {
+                    "backgroundUrl" : null,
+                    "canExpand" : false,
+                    "description" : null,
+                    "iconUrl" : null,
+                    "id" : "eb3cb6ba-6668-40a4-b517-391e94cf9ff9",
+                    "kind" : "FOR_REVIEW",
+                    "name" : null,
+                    "orderByRating" : false,
+                    "shortDescription" : null,
+                    "shortTitle" : null,
+                    "showMoreTitle" : "Смотреть все",
+                    "shuffle" : false,
+                    "title" : "Как вам эти приложения?",
+                    "type" : "REVIEW_APPS",
+                    "units" : [
+
+                    ]
+                  },
+                  {
+                    "backgroundUrl" : null,
+                    "canExpand" : false,
+                    "description" : null,
+                    "iconUrl" : null,
+                    "id" : "f1a5f578-9dce-4ea0-8572-7f1933ab043f",
+                    "kind" : "MANUAL",
+                    "name" : "null",
+                    "orderByRating" : false,
+                    "shortDescription" : null,
+                    "shortTitle" : null,
+                    "showMoreTitle" : "Смотреть все",
+                    "shuffle" : true,
+                    "title" : "Подборки ",
+                    "type" : "EXTENDED_MIXED",
+                    "units" : [
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/planner_backgrounds_2.png",
+                          "compilationId" : "69c8b711-1740-4e33-8f66-fff4ab8617b9",
+                          "description" : "Онлайн-помощники в экономии времени",
+                          "id" : "7adb6b0e-ae96-418a-8312-81cdf150456c",
+                          "position" : 4,
+                          "title" : "Чтобы всё успеть"
+                        },
+                        "id" : "7adb6b0e-ae96-418a-8312-81cdf150456c",
+                        "type" : "INNER_COMPILATION"
+                      },
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/for_kids_backgrounds_2.png",
+                          "compilationId" : "4cf498e3-e552-47a2-89b8-2e5c32ae5758",
+                          "description" : "Пусть играет и учится одновременно",
+                          "id" : "fcccbe4d-b6f1-47cb-925d-729ac01b6465",
+                          "position" : 5,
+                          "title" : "Чем занять ребёнка"
+                        },
+                        "id" : "fcccbe4d-b6f1-47cb-925d-729ac01b6465",
+                        "type" : "INNER_COMPILATION"
+                      },
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/best_backgrounds_2.png",
+                          "compilationId" : "3f4c52aa-28c5-4b3b-900e-45ae00234427",
+                          "description" : "Приложения с самым высоким рейтингом",
+                          "id" : "80b86e17-aacf-44a8-abfa-2421e38422d6",
+                          "position" : 0,
+                          "title" : "Лучшее"
+                        },
+                        "id" : "80b86e17-aacf-44a8-abfa-2421e38422d6",
+                        "type" : "INNER_COMPILATION"
+                      },
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/horizon_backgrounds_2.png",
+                          "compilationId" : "25d5c956-0bf9-4354-b601-b6f84326b87b",
+                          "description" : "Подборка для будущих и состоявшихся эрудитов",
+                          "id" : "2e756a99-0fc6-4c72-981d-6402a54cf3e8",
+                          "position" : 1,
+                          "title" : "Расширяем кругозор"
+                        },
+                        "id" : "2e756a99-0fc6-4c72-981d-6402a54cf3e8",
+                        "type" : "INNER_COMPILATION"
+                      },
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/reason_rest_backgrounds_2.png",
+                          "compilationId" : "74faac3c-8021-4f5c-aa3d-88dedbe57ff8",
+                          "description" : "Избранные игры для всех возрастов",
+                          "id" : "8c05ae3e-eff2-473a-b928-882d889790f7",
+                          "position" : 3,
+                          "title" : "Повод передохнуть"
+                        },
+                        "id" : "8c05ae3e-eff2-473a-b928-882d889790f7",
+                        "type" : "INNER_COMPILATION"
+                      },
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn.sberdevices.ru\/catalog\/images\/health_backgrounds_2.png",
+                          "compilationId" : "7f152bed-0556-4e4b-ad6e-7f89be0ed787",
+                          "description" : "Приложения для крепких душой и телом",
+                          "id" : "e33558c0-2dc1-4f37-ac9d-89f2833d46c3",
+                          "position" : 2,
+                          "title" : "Будьте здоровы"
+                        },
+                        "id" : "e33558c0-2dc1-4f37-ac9d-89f2833d46c3",
+                        "type" : "INNER_COMPILATION"
+                      },
+                      {
+                        "attributes" : {
+                          "backgroundUrl" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/common\/4d272aec_Kartinka_dlya_Podborki.jpg",
+                          "compilationId" : "6c75ecbf-8ce7-4368-bbbf-48b937473c42",
+                          "description" : "Кибербезопасность — это важно!",
+                          "id" : "279c8e86-4b60-436d-b07e-3af994416978",
+                          "position" : 6,
+                          "title" : "Не дайте себя обмануть"
+                        },
+                        "id" : "279c8e86-4b60-436d-b07e-3af994416978",
+                        "type" : "INNER_COMPILATION"
+                      }
+                    ]
+                  },
+                  {
+                    "backgroundUrl" : null,
+                    "canExpand" : false,
+                    "description" : null,
+                    "iconUrl" : null,
+                    "id" : "c074118c-d639-4e55-9cb5-8f55340d48b8",
+                    "kind" : "MANUAL",
+                    "name" : "null",
+                    "orderByRating" : false,
+                    "shortDescription" : null,
+                    "shortTitle" : null,
+                    "showMoreTitle" : "Смотреть все",
+                    "shuffle" : false,
+                    "title" : "",
+                    "type" : "PROMOS",
+                    "units" : [
+                      {
+                        "attributes" : {
+                          "backgroundImgUrl" : "https:\/\/cdn-app.sberdevices.ru\/misc\/0.0.0\/assets\/common\/884de8d2_wordle_banner_mob_w.png",
+                          "buttonText" : "Играть",
+                          "description" : "Угадывайте слово, чтобы справиться с ежедневным заданием в популярной игре 2022 года",
+                          "endColor" : "#E8BE52",
+                          "iconUrl" : "",
+                          "isPrefixEnabled" : true,
+                          "serverAction" : "{\"serverAction\": { \"action_id\": \"CATALOG_LAUNCH_APP\", \"parameters\": { \"project_id\": \"2155ac1d-bdf2-4e45-9412-aa82935fb508\" }, \"type\": \"CATALOG_LAUNCH_APP\" } }",
+                          "startColor" : "#64B61A",
+                          "title" : [
+                            {
+                              "accent" : false,
+                              "lineBreak" : false,
+                              "text" : "Салют, давай поиграем в "
+                            },
+                            {
+                              "accent" : true,
+                              "lineBreak" : false,
+                              "text" : "Wordle"
+                            }
+                          ]
+                        },
+                        "id" : "09e8cb79-826f-4a9b-9e55-cf5eb3b82611",
+                        "type" : "PROMO"
+                      }
+                    ]
+                  }
+                ],
+                "id" : "ceede41d-9701-4f8a-b116-ef5ec218e2a2",
+                "reorderSalt" : "64f465dc-1ace-a36d-8838-9605ee3674ca",
+                "surfaceCode" : "COMPANION",
+                "title" : "Лента для МП Сбер Салют",
+                "totalCompilationCount" : 13,
+                "type" : "FEED"
+              }
+            },
+            "type" : "INIT"
+          },
+          "type" : "smart_app_data"
+        }
+      }
+    ],
+    "original_intent" : "run_app",
+    "projectName" : "Каталог",
+    "smartBio" : {
+
+    },
+    "userSettings" : {
+      "initials" : "ПТ"
+    },
+    "voice" : "She_HQ"
+  },
+  "timestamp" : 1672067941965,
+  "version" : 0
+}
