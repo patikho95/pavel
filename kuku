@@ -165,23 +165,25 @@
                     {
                        "type":"deep_link",
                        "deep_link":"companionapp://navigation?pageId=assistant&systemName=sberEats"
+                    }
+                 ],
+              },
+             {
+                 "icon_address":{
+                    "type":"url",
+                    "url":"https://cdn.sberdevices.ru/static/services/target/30be108e-0aee-494f-95ea-b1a6caac4e9e/bb49cde2-0337-47c3-a275-cb55da056847.png"
+                 },
+                 "log_id":"operator_header_button",
+                 "actions":[
+                    {
+                       "type":"deep_link",
+                       "deep_link":"companionapp://navigation?pageId=assistant&systemName=marketplace"
                     }, 
                     {
                        "type":"text",
                        "text":"текст грабли оператора"
                     }
                  ],
-                 "log_id":"operator_button",
-                 "actions":[
-                    {
-                       "type":"deep_link",
-                       "deep_link":"companionapp://navigation?pageId=assistant&systemName=spasibo"
-                    }, 
-                    {
-                       "type":"text",
-                       "text":"текст грабли оператора"
-                    }
-                 ]
               }
            ],
            "asr_hints":{
