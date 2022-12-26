@@ -119,6 +119,7 @@
     },
     "finished" : false,
     "intent" : "run_app",
+    "nativeHeader": true,
     "items" : [
       {
         "command" : {
