@@ -20,6 +20,7 @@
           "title" : "Заказ продуктов"
         }
       },
+      "nativeHeader" : true,
       "applicationId" : "3dca1c90-54a8-40c9-854b-5c503b0b8ee3",
       "appversionId" : "479d6b3d-566f-496f-a4a7-9eda6dc5cc52",
       "availableOrientations" : [
@@ -119,7 +120,6 @@
     },
     "finished" : false,
     "intent" : "run_app",
-    "nativeHeader" : true,
     "items" : [
       {
         "command" : {
