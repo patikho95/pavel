@@ -1,0 +1,396 @@
+{
+    "debug_info":
+    {},
+    "activate_app_info": true,
+    "auto_listening": true,
+    "projectName": "Бонусы",
+    "intent": "run_app",
+    "app_info":
+    {
+        "affiliationType": "ECOSYSTEM",
+        "frontendEndpoint": "https://spasibo.prom.app.sberdevices.ru/",
+        "apkInfo":
+        {},
+        "frontendStateId": "4410a5b3-5240-4109-b22b-a3bf635255aa_8e8b3b3d-9798-4203-a2fd-e3a0a7bab216_6f8c183a-defb-4d7c-b362-da70fd6d9808",
+        "frontendType": "WEB_APP",
+        "systemName": "spasibo",
+        "securityAccess":
+        {},
+        "allowFastRunApp": true,
+        "projectId": "4410a5b3-5240-4109-b22b-a3bf635255aa",
+        "appearance":
+        {
+            "header":
+            {
+                "title": "Бонусы",
+                "icon":
+                {
+                    "type": "url",
+                    "url": "https://cdn.sberdevices.ru/VA/icons/spasibo_icon.png",
+                    "hash": "51e9201c01fa810ca92c964f7ad7b097"
+                }
+            }
+        },
+        "appversionId": "6f8c183a-defb-4d7c-b362-da70fd6d9808",
+        "ageLimit": 18,
+        "nativeHeader" : true,
+        "applicationId": "8e8b3b3d-9798-4203-a2fd-e3a0a7bab216",
+        
+    },
+    "items":
+    [
+        {
+            "command":
+            {
+                "type": "smart_app_data",
+                "action":
+                {
+                    "type": "INIT",
+                    "payload":
+                    {
+                        "userId": "696B3DAC-A76B-48BA-B70D-2FA566398504",
+                        "partnersEcosystem":
+                        [
+                            {
+                                "category": "Аптеки и оптика",
+                                "id": "27225072",
+                                "code": "sbermegamarket",
+                                "title": "СберМегаМаркет",
+                                "discount": "1%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/d69/sbermegamarket.png"
+                            },
+                            {
+                                "category": "Аптеки и оптика",
+                                "id": "29543533",
+                                "code": "sber-eapteka",
+                                "title": "ЕАПТЕКА ",
+                                "discount": "1%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/9cc/Group-1252.png"
+                            },
+                            {
+                                "category": "Без карты СберБанка",
+                                "id": "10901263",
+                                "code": "sbermarket",
+                                "title": "СберМаркет",
+                                "discount": "до 10%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/346/sbermarket_logo2.png"
+                            },
+                            {
+                                "category": "Кафе и рестораны",
+                                "id": "14096570",
+                                "code": "delivery",
+                                "title": "Delivery Club",
+                                "discount": "1%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/596/delivery_logo_0919.png"
+                            },
+                            {
+                                "category": "Кино и театр",
+                                "id": "166445",
+                                "code": "okko",
+                                "title": "Okko",
+                                "discount": "до 3%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/9bf/okko_logo_pkl.png"
+                            },
+                            {
+                                "category": "Красота",
+                                "id": "24987088",
+                                "code": "sberuslugi",
+                                "title": "СберУслуги",
+                                "discount": "2%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/b31/sberuslugi_512_512.png"
+                            },
+                            {
+                                "category": "Недвижимость",
+                                "id": "10829662",
+                                "code": "domklik",
+                                "title": "ДомКлик",
+                                "discount": "1%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/ea7/DomClick.png"
+                            },
+                            {
+                                "category": "Образование",
+                                "id": "25222590",
+                                "code": "dasreda",
+                                "title": "Деловая среда",
+                                "discount": "5%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/ae5/delovaya_sreda_logo.png"
+                            },
+                            {
+                                "category": "Прочее",
+                                "id": "43372174",
+                                "code": "sberpravo",
+                                "title": "СберПраво",
+                                "discount": "5%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/2a5/sberpravo_logo.png"
+                            },
+                            {
+                                "category": "Прочее",
+                                "id": "219157",
+                                "code": "sberspasibo",
+                                "title": "СберСпасибо",
+                                "discount": "0,5%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/80b/SberSpasibo_logo-_1_.png"
+                            },
+                            {
+                                "category": "Развлечения",
+                                "id": "10834824",
+                                "code": "sberdisk",
+                                "title": "СберДиск",
+                                "discount": "5%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/cbf/SberDisk.png"
+                            },
+                            {
+                                "category": "Развлечения",
+                                "id": "12552616",
+                                "code": "sberzvuk",
+                                "title": "Звук",
+                                "discount": "5%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/5cb/SberZvuk.png"
+                            },
+                            {
+                                "category": "Связь и интернет",
+                                "id": "10829087",
+                                "code": "rambler-group",
+                                "title": "Rambler&Co",
+                                "discount": "5%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/4f8/logo_omny_rambler.png"
+                            },
+                            {
+                                "category": "Связь и интернет",
+                                "id": "1200151",
+                                "code": "sbermobile",
+                                "title": "СберМобайл",
+                                "discount": "до 30%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/c5f/SberMobile.png"
+                            },
+                            {
+                                "category": "Цветы и подарки",
+                                "id": "1149739",
+                                "code": "korporativnyy-magazin-sberbanka",
+                                "title": "Корпоративный магазин СберБанка",
+                                "discount": "1%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/daa/sbershop_logo_sbol.png"
+                            },
+                            {
+                                "category": "Экосистема Сбера",
+                                "id": "26193656",
+                                "code": "sberdevices",
+                                "title": "SberDevices",
+                                "discount": "3%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/3fb/logo_sberdevices.png"
+                            },
+                            {
+                                "category": "Экосистема Сбера",
+                                "id": "38985818",
+                                "code": "sberplay",
+                                "title": "SberPlay",
+                                "discount": "3%",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/5e0/logo_omny_sberplay.png"
+                            }
+                        ],
+                        "partnersNotEcosystem":
+                        [
+                            {
+                                "discount": "до 5%",
+                                "id": "1149901",
+                                "title": "kari",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/47f/kari_logo_pkl_0819.png"
+                            },
+                            {
+                                "discount": "до 6%",
+                                "id": "147805",
+                                "title": "Бургер Кинг",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/978/burgerking_logo.png"
+                            },
+                            {
+                                "discount": "0,5%",
+                                "id": "1102276",
+                                "title": "Дочки-Сыночки",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/91a/dochki_synochki_logo_pkl_240719.png"
+                            },
+                            {
+                                "discount": "до 7%",
+                                "id": "190516",
+                                "title": "Ригла",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/949/rigla_logo_1118.png"
+                            },
+                            {
+                                "discount": "5%",
+                                "id": "374275",
+                                "title": "Л’Этуаль",
+                                "description": null,
+                                "logo": "https://spasibosberbank.ru/upload/iblock/037/letual_logo_1218.png"
+                            }
+                        ],
+                        "registration":
+                        {
+                            "phone": "9690215079",
+                            "dob": "1995-08-28"
+                        },
+                        "clientType": "spasiboClient",
+                        "currentPrivilegeLevel":
+                        {
+                            "key": "PRIVILEGE_LEVEL_2",
+                            "period":
+                            {
+                                "details": "Это ваш уровень на весну до 9 июня",
+                                "info": "Ваш уровень до 9 июня",
+                                "code": "spring"
+                            }
+                        },
+                        "balance": 232.90000000000001,
+                        "availablePrivilegeLevels":
+                        {
+                            "PRIVILEGE_LEVEL_1":
+                            {
+                                "code": "1",
+                                "categoriesAvailableCount": 0,
+                                "name": "Спасибо",
+                                "benefits":
+                                [
+                                    {
+                                        "info": "до 30%",
+                                        "icon": "ICON_GIFT",
+                                        "details": "бонусов только от партнёров",
+                                        "linkTitle": "Партнёры",
+                                        "link": "LINK_PARTNERS"
+                                    }
+                                ],
+                                "categoriesInfo": ""
+                            },
+                            "PRIVILEGE_LEVEL_4":
+                            {
+                                "code": "4",
+                                "categoriesAvailableCount": 4,
+                                "name": "Больше, чем Спасибо",
+                                "benefits":
+                                [
+                                    {
+                                        "info": "до 30%",
+                                        "icon": "ICON_GIFT",
+                                        "details": "бонусов от партнёров",
+                                        "linkTitle": "Партнёры",
+                                        "link": "LINK_PARTNERS"
+                                    },
+                                    {
+                                        "info": "до 0,5%",
+                                        "icon": "ICON_SBER",
+                                        "details": "бонусов при каждой покупке",
+                                        "linkTitle": "Подробнее",
+                                        "link": "LINK_DISCOUNT"
+                                    },
+                                    {
+                                        "info": "4 категории",
+                                        "icon": "ICON_DISCOUNT",
+                                        "details": "с повышенными бонусами",
+                                        "linkTitle": "Подключить",
+                                        "link": "LINK_CATEGORIES"
+                                    },
+                                    {
+                                        "info": "Обмен бонусов",
+                                        "icon": "ICON_EXCHANGE",
+                                        "details": "на рубли",
+                                        "linkTitle": "Обменять",
+                                        "link": "LINK_EXCHANGE"
+                                    }
+                                ],
+                                "categoriesInfo": "На уровне Больше, чем Спасибо Вы можете бесплатно подключить две категории. Ещё две — за бонусы Спасибо."
+                            },
+                            "PRIVILEGE_LEVEL_3":
+                            {
+                                "code": "3",
+                                "categoriesAvailableCount": 2,
+                                "name": "Огромное Спасибо",
+                                "benefits":
+                                [
+                                    {
+                                        "info": "до 30%",
+                                        "icon": "ICON_GIFT",
+                                        "details": "бонусов от партнёров",
+                                        "linkTitle": "Партнёры",
+                                        "link": "LINK_PARTNERS"
+                                    },
+                                    {
+                                        "info": "до 0,5%",
+                                        "icon": "ICON_SBER",
+                                        "details": "бонусов при каждой покупке",
+                                        "linkTitle": "Подробнее",
+                                        "link": "LINK_DISCOUNT"
+                                    },
+                                    {
+                                        "info": "2 категории",
+                                        "icon": "ICON_DISCOUNT",
+                                        "details": "с повышенными бонусами",
+                                        "linkTitle": "Подключить",
+                                        "link": "LINK_CATEGORIES"
+                                    }
+                                ],
+                                "categoriesInfo": "На уровне Огромное Спасибо Вы можете бесплатно подключить одну категорию. Ещё одну — за бонусы Спасибо."
+                            },
+                            "PRIVILEGE_LEVEL_2":
+                            {
+                                "code": "2",
+                                "categoriesAvailableCount": 0,
+                                "name": "Большое Спасибо",
+                                "benefits":
+                                [
+                                    {
+                                        "info": "до 30%",
+                                        "icon": "ICON_GIFT",
+                                        "details": "бонусов от партнёров",
+                                        "linkTitle": "Партнёры",
+                                        "link": "LINK_PARTNERS"
+                                    },
+                                    {
+                                        "info": "до 0,5%",
+                                        "icon": "ICON_SBER",
+                                        "details": "бонусов при каждой покупке",
+                                        "linkTitle": "Подробнее",
+                                        "link": "LINK_DISCOUNT"
+                                    }
+                                ],
+                                "categoriesInfo": ""
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+                   "header_buttons":[
+              {
+                 "icon_address":{
+                    "type":"url",
+                    "url":"https://content.sberdevices.ru/smartmarket-smide-prod/97310/97311/EZoPmSYM4knMw9kv.png"
+                 },
+                 "log_id":"operator_header_button",
+                 "actions":[ 
+               {
+                       "type":"smartapp_text",
+                       "smartapp_text":"действие, обрабатываемое на стороне canvas"
+                    }
+                 ]
+              }
+           ]
+}
