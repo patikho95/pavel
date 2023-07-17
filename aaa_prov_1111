@@ -1,0 +1,4434 @@
+{
+	"items": [
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "100",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "99" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "98",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "97" } },
+		{ "bubble": { "text": "96" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "95",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [
+							{
+								"type": "text",
+								"text": "HAHANUM"
+							}
+						]
+					},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [
+							{
+								"type": "text",
+								"text": "Защита дома"
+							}
+						]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [
+							{
+								"type": "text",
+								"text": "Защита от травм"
+							}
+						]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "94" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "93",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "92" } },
+		{ "bubble": { "text": "91" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "90",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "89" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "88",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "87" } },
+		{ "bubble": { "text": "86" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "85",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "84" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "83",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "82" } },
+		{ "bubble": { "text": "81" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "80",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "79" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "78",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "77" } },
+		{ "bubble": { "text": "76" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "75",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "74" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "73",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "72" } },
+		{ "bubble": { "text": "71" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "70",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "69" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "68",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "67" } },
+		{ "bubble": { "text": "66" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "65",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "64" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "63",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "62" } },
+		{ "bubble": { "text": "61" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "60",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "59" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "58",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "57" } },
+		{ "bubble": { "text": "56" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "55",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "54" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "53",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "52" } },
+		{ "bubble": { "text": "51" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "50",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "49" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "48",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "47" } },
+		{ "bubble": { "text": "46" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "45",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "44" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "43",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "42" } },
+		{ "bubble": { "text": "41" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "40",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "39" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "38",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "37" } },
+		{ "bubble": { "text": "36" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "35",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "34" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "33",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "32" } },
+		{ "bubble": { "text": "31" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "30",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "29" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "28",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "27" } },
+		{ "bubble": { "text": "26" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "25",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "24" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "23",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "22" } },
+		{ "bubble": { "text": "21" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "20",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "19" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "18",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "17" } },
+		{ "bubble": { "text": "16" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [{
+					"type": "left_right_cell_view",
+					"divider": {
+						"style": "default",
+						"size": "d3"
+					},
+					"paddings": {
+						"left": "8x",
+						"top": "4x",
+						"right": "8x",
+						"bottom": "4x"
+					},
+					"left": {
+						"type": "simple_left_view",
+						"texts": {
+							"title": {
+								"text": "15",
+								"typeface": "body1",
+								"text_color": "default",
+								"max_lines": 0
+							}
+						}
+					},
+					"right": {
+						"type": "disclosure_right_view",
+						"margins": {
+							"top": "8x",
+							"right": "4x",
+							"bottom": "8x"
+						},
+						"vertical_gravity": "top"
+					},
+					"actions": [{
+						"type": "text",
+						"text": "HAHANUM"
+					}]
+				},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита дома"
+						}]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [{
+							"type": "text",
+							"text": "Защита от травм"
+						}]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "14" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "13",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "12" } },
+		{ "bubble": { "text": "11" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "10",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "9" } },
+		{
+			  "card": {
+				"items": [
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "72c862660002537de8245ed3cb24ca5a",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Once_Upon_a_Time_in_Hollywood.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "8",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "684bb9269183ef3660e25d4c815f9a24",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/9/93/Pulp_Fiction.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Криминальное чтиво",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "hash": "e770ba2bdd191bbdcc4e0fece367539c",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Inglourious_Basterds_poster.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бесславные ублюдки",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "1483a0c8a9a06169a602a39cd379f2d2",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/d/d4/The_Hateful_Eight.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Омерзительная восьмерка",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "23d0bc6197b3ca07ba5a564427464400",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/b/ba/Django_Unchained.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Джанго освобожденный",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  },
+				  {
+					"image": {
+					  "badges": [
+						{
+						  "content": {
+							"text": "Есть на Окко",
+							"text_color": "default",
+							"typeface": "caption"
+						  },
+						  "type": "badge_text"
+						}
+					  ],
+					  "hash": "849160ef52e5644d2b7822107deb2100",
+					  "size": {
+						"aspect_ratio": 1.42,
+						"width": "xsmall"
+					  },
+					  "url": "https://upload.wikimedia.org/wikipedia/ru/8/8a/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+					},
+					"margins": {
+					  "bottom": "5x",
+					  "left": "6x",
+					  "right": "6x",
+					  "top": "4x"
+					},
+					"top_text": {
+					  "max_lines": 2,
+					  "text": "Бешеные псы",
+					  "text_color": "default",
+					  "typeface": "footnote1"
+					},
+					"type": "media_gallery_item"
+				  }
+				],
+				"type": "gallery_card"
+			  }
+			},
+		{ "bubble": { "text": "7" } },
+		{ "bubble": { "text": "6" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"top": "4x",
+					"bottom": "4x"
+				},
+				"cells": [
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "5",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [
+							{
+								"type": "text",
+								"text": "HAHANUM"
+							}
+						]
+					},
+					{
+						"type": "left_right_cell_view",
+						"divider": {
+							"style": "default",
+							"size": "d3"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита дома",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [
+							{
+								"type": "text",
+								"text": "Защита дома"
+							}
+						]
+					},
+					{
+						"type": "left_right_cell_view",
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x",
+							"bottom": "4x"
+						},
+						"left": {
+							"type": "simple_left_view",
+							"texts": {
+								"title": {
+									"text": "Защита от травм",
+									"typeface": "body1",
+									"text_color": "default",
+									"max_lines": 0
+								}
+							}
+						},
+						"right": {
+							"type": "disclosure_right_view",
+							"margins": {
+								"top": "8x",
+								"right": "4x",
+								"bottom": "8x"
+							},
+							"vertical_gravity": "top"
+						},
+						"actions": [
+							{
+								"type": "text",
+								"text": "Защита от травм"
+							}
+						]
+					}
+				]
+			}
+		},
+		{ "bubble": { "text": "4" } },
+		{
+			"card": {
+				"type": "list_card",
+				"paddings": {
+					"bottom": "12x"
+				},
+				"cells": [
+					{
+						"type": "image_cell_view",
+						"content": {
+							"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "3",
+							"typeface": "title1",
+							"text_color": "default"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "55 лет",
+							"typeface": "footnote1",
+							"text_color": "secondary"
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Канадский актёр, кинопродюсер, и музыкант. Наиболее известен своими ролями в киносериях «Матрица» и «Джон Уик»...",
+							"typeface": "body2",
+							"text_color": "default",
+							"max_lines": 0
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "6x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "ru.wikipedia.org",
+							"typeface": "footnote1",
+							"text_color": "secondary",
+							"actions": [
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "4x",
+							"right": "8x"
+						}
+					},
+					{
+						"type": "text_cell_view",
+						"content": {
+							"text": "Подробнее",
+							"typeface": "button1",
+							"text_color": "accent",
+							"actions": [
+								{
+									"type": "text",
+									"text": "Расскажи про него подробней"
+								},
+								{
+									"type": "deep_link",
+									"deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+								}
+							]
+						},
+						"paddings": {
+							"left": "8x",
+							"top": "12x",
+							"right": "8x"
+						}
+					}
+				]
+			}
+		}
+		,
+		{ "bubble": { "text": "2" } },
+		{
+			"card": {
+				"type": "simple_list",
+				"header": "1",
+				"footer": "Сбербанк Онлайн на сегодня в 13:23 при обмене до 5000$.",
+				"items": [
+					{
+						"title": "Купить",
+						"body": "73,63 ₽"
+					},
+					{
+						"title": "Продать",
+						"body": "75,63 ₽"
+					}
+				]
+			}
+		}
+	]
+}
