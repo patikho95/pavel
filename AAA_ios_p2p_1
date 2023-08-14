@@ -1,0 +1,56 @@
+{
+   "cells":[
+      {
+         "actions":[
+            
+         ],
+         "left":{
+            "texts":{
+               "subtitle":{
+                  "margins":{
+                     "top":"4x"
+                  },
+                  "max_lines":0,
+                  "text":"Проверка загрузки аватара из адресной книги по hash",
+                  "text_color":"secondary",
+                  "typeface":"footnote1"
+               },
+               "title":{
+                  "text":"Контакт",
+                  "text_color":"default",
+                  "typeface":"headline3"
+               }
+            },
+            "type":"simple_left_view"
+         },
+         "paddings":{
+            "bottom":"8x",
+            "left":"8x",
+            "right":"8x",
+            "top":"8x"
+         },
+         "right":{
+            "info_and_icon":{
+               "icon":{
+                  "address":{
+                     "initials":"аа",
+                     "local_contact_hash":"",
+                     "type":"localcontact"
+                  },
+                  "margins":{
+                     "left":"8x"
+                  },
+                  "rounded_corners":"circle",
+                  "size":{
+                     "height":"xlarge",
+                     "width":"xlarge"
+                  }
+               }
+            },
+            "type":"detail_right_view"
+         },
+         "type":"left_right_cell_view"
+      }
+   ],
+   "type":"list_card"
+}
